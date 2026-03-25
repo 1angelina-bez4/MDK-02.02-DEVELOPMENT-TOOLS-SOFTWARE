@@ -16,15 +16,15 @@
 
 | Репозиторий | Описание |
 |-------------|----------|
-| [Bezrukova_PR03_GIT](https://github.com/bezrukova/Bezrukova_PR03_GIT) | Практическая работа №3 по Git |
-| [COPY_GITHUB](https://github.com/bezrukova/COPY_GITHUB) | Работа с копированием репозиториев |
-| [GIT_PR07_Bezrukova](https://github.com/bezrukova/GIT_PR07_Bezrukova) | Практическая работа №7 по Git |
-| [Pr08](https://github.com/bezrukova/Pr08) | Практическая работа №8 |
-| [GIT_PR10_Bezrukova](https://github.com/bezrukova/GIT_PR10_Bezrukova) | Практическая работа №10 по Git |
-| [megasupersite](https://github.com/bezrukova/megasupersite) | Форк (Fork) стороннего репозитория |
-| [PR12_2](https://github.com/bezrukova/PR12_2) | Практическая работа №12 (часть 2) |
-| [PR12_GIT_Bezrukova](https://github.com/bezrukova/PR12_GIT_Bezrukova) | Практическая работа №12 по Git |
-| [is23b-bezrukova-repo](https://github.com/bezrukova/is23b-bezrukova-repo) | Учебный репозиторий группы ИС-23Б |
+| [Bezrukova_PR03_GIT](https://github.com/1angelina-bez4/Bezrukova_PR03_GIT) | Практическая работа №3 по Git |
+| [COPY_GITHUB](https://github.com/1angelina-bez4/COPY_GITHUB) | Работа с копированием репозиториев |
+| [GIT_PR07_Bezrukova](https://github.com/1angelina-bez4/GIT_PR07_Bezrukova) | Практическая работа №7 по Git |
+| [Pr08](https://github.com/1angelina-bez4/Pr08) | Практическая работа №8 |
+| [GIT_PR10_Bezrukova](https://github.com/1angelina-bez4/GIT_PR10_Bezrukova) | Практическая работа №10 по Git |
+| [megasupersite](https://github.com/1angelina-bez4/megasupersite) | Форк (Fork) стороннего репозитория |
+| [PR12_2](https://github.com/1angelina-bez4/PR12_2) | Практическая работа №12 (часть 2) |
+| [PR12_GIT_Bezrukova](https://github.com/1angelina-bez4/PR12_GIT_Bezrukova) | Практическая работа №12 по Git |
+| [is23b-bezrukova-repo](https://github.com/1angelina-bez4/is23b-bezrukova-repo) | Учебный репозиторий группы ИС-23Б |
 
 ### Назначение
 
@@ -44,18 +44,17 @@ The repository includes reports on the main topics of the course, as well as pra
 ### Related Repositories (GitHub)
 
 In addition to the materials collected in this repository, some works related to GitHub are stored in separate repositories:
-
 | Repository | Description |
 |------------|-------------|
-| [Bezrukova_PR03_GIT](https://github.com/bezrukova/Bezrukova_PR03_GIT) | Practical Work No. 3 on Git |
-| [COPY_GITHUB](https://github.com/bezrukova/COPY_GITHUB) | Repository cloning exercises |
-| [GIT_PR07_Bezrukova](https://github.com/bezrukova/GIT_PR07_Bezrukova) | Practical Work No. 7 on Git |
-| [Pr08](https://github.com/bezrukova/Pr08) | Practical Work No. 8 |
-| [GIT_PR10_Bezrukova](https://github.com/bezrukova/GIT_PR10_Bezrukova) | Practical Work No. 10 on Git |
-| [megasupersite](https://github.com/bezrukova/megasupersite) | Fork of an external repository |
-| [PR12_2](https://github.com/bezrukova/PR12_2) | Practical Work No. 12 (Part 2) |
-| [PR12_GIT_Bezrukova](https://github.com/bezrukova/PR12_GIT_Bezrukova) | Practical Work No. 12 on Git |
-| [is23b-bezrukova-repo](https://github.com/bezrukova/is23b-bezrukova-repo) | Study repository for group IS-23B |
+| [Bezrukova_PR03_GIT](https://github.com/1angelina-bez4/Bezrukova_PR03_GIT) | Practical Work No. 3 on Git |
+| [COPY_GITHUB](https://github.com/1angelina-bez4/COPY_GITHUB) | Repository cloning exercises |
+| [GIT_PR07_Bezrukova](https://github.com/1angelina-bez4/GIT_PR07_Bezrukova) | Practical Work No. 7 on Git |
+| [Pr08](https://github.com/1angelina-bez4/Pr08) | Practical Work No. 8 |
+| [GIT_PR10_Bezrukova](https://github.com/1angelina-bez4/GIT_PR10_Bezrukova) | Practical Work No. 10 on Git |
+| [megasupersite](https://github.com/1angelina-bez4/megasupersite) | Fork of an external repository |
+| [PR12_2](https://github.com/1angelina-bez4/PR12_2) | Practical Work No. 12 (Part 2) |
+| [PR12_GIT_Bezrukova](https://github.com/1angelina-bez4/PR12_GIT_Bezrukova) | Practical Work No. 12 on Git |
+| [is23b-bezrukova-repo](https://github.com/1angelina-bez4/is23b-bezrukova-repo) | Study repository for group IS-23B |
 
 ### Purpose
 
