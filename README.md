@@ -1,16 +1,16 @@
 # MDK.02.02 "Software Development Tools" – Laboratory Works Repository
 
-### RU О репозитории
+### 📕 RU О репозитории
 
 Данный репозиторий содержит отчеты и практические работы, выполненные в рамках междисциплинарного курса **МДК.02.02 «Инструментальные средства разработки программного обеспечения»** (MDK.02.02 "Software Development Tools").
 
 Курс входит в состав профессионального модуля **ПМ.02 «Интеграция программных модулей»** и предназначен для студентов специальности **09.02.07 «Информационные системы и программирование»**.
 
-### Структура и содержание
+### 📁 Структура и содержание
 
 В репозитории представлены отчеты по основным темам курса, а также практические задания, связанные с освоением систем контроля версий и инструментов разработки.
 
-### Связанные репозитории (GitHub)
+### 🧷 Связанные репозитории (GitHub)
 
 Помимо материалов, собранных в этом репозитории, часть работ, связанных с работой в GitHub, размещена в отдельных репозиториях:
 
@@ -26,22 +26,32 @@
 | [PR12_GIT_Bezrukova](https://github.com/1angelina-bez4/PR12_GIT_Bezrukova) | Практическая работа №12 по Git |
 | [is23b-bezrukova-repo](https://github.com/1angelina-bez4/is23b-bezrukova-repo) | Учебный репозиторий группы ИС-23Б |
 
-### Назначение
+## 🎯 Цели репозитория
 
-Основная цель данного репозитория — систематизация выполненных лабораторных и практических работ, демонстрация освоенных навыков работы с инструментальными средствами разработки, включая системы контроля версий (Git/GitHub), а также подготовка к дальнейшей профессиональной деятельности в области разработки программного обеспечения.
+1. Систематизация выполненных работ
+2. Отслеживание прогресса обучения
+3. Демонстрация навыков потенциальным работодателям
+4. Создание портфолио проектов
 
+## 📞 Контакты
+
+**Автор:** 1angelina-bez4
+
+**Email:** angelina_bezzrukovvva@bk.ru
+
+**Telegram:** @ero0000ir
 ---
-### EN About This Repository
+### 📕 EN About This Repository
 
 This repository contains reports and practical works completed as part of the interdisciplinary course **MDK.02.02 "Software Development Tools"**.
 
 The course is part of the professional module **PM.02 "Integration of Software Modules"** and is intended for students of the specialty **09.02.07 "Information Systems and Programming"**.
 
-### Structure and Content
+### 📁 Structure and Content
 
 The repository includes reports on the main topics of the course, as well as practical assignments related to mastering version control systems and development tools.
 
-### Related Repositories (GitHub)
+### 🧷 Related Repositories (GitHub)
 
 In addition to the materials collected in this repository, some works related to GitHub are stored in separate repositories:
 | Repository | Description |
@@ -56,6 +66,17 @@ In addition to the materials collected in this repository, some works related to
 | [PR12_GIT_Bezrukova](https://github.com/1angelina-bez4/PR12_GIT_Bezrukova) | Practical Work No. 12 on Git |
 | [is23b-bezrukova-repo](https://github.com/1angelina-bez4/is23b-bezrukova-repo) | Study repository for group IS-23B |
 
-### Purpose
+## 🎯 Repository Goals
 
-The main purpose of this repository is to organize completed laboratory and practical works, demonstrate acquired skills in working with software development tools, including version control systems (Git/GitHub), and prepare for further professional activities in the field of software development.
+1. Systematization of completed works
+2. Tracking learning progress
+3. Demonstrating skills to potential employers
+4. Creating a project portfolio
+
+## 📞 Contacts
+
+**Author:** 1angelina-bez4
+
+**Email:** angelina_bezzrukovvva@bk.ru
+
+**Telegram:** @ero0000ir
